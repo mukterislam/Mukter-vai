@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.2.0",
+  "versionCode": 2,
+  "versionName": "1.3.0",
   "updateUrl": "https://github.com/mukterislam/Mukter-vai/raw/refs/heads/main/MkrVault.apk",
   "whatsNew": "• Binance Smart Chain transaction speed boosted by 100x!\n• Fixed Gwei decimal issues.\n• Premium neon green UI enhancements."
 }
